@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(55, 113, 199)
+}
+
+a {
+    color: rgb(209, 139, 73);
+    text-decoration: none;
+}
+
+h3 {
+    color: rgb(219, 156, 39);
+}
+
+h4 {
+    color: rgb(218, 79, 54);
+}
+
+img {
+    height: 250px;
+}
