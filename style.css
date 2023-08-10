@@ -18,3 +18,23 @@ h4 {
 img {
     height: 250px;
 }
+
+.home-header {
+    text-align: center;
+    background-color: rgb(156, 189, 218);
+    padding: 1rem;
+}
+
+.home-recipe-list {
+    list-style: none;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.home-recipe-list li {
+    background-color: rgb(143, 90, 83);
+    list-style: none;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.25em;
+}
